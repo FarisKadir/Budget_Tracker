@@ -1,7 +1,6 @@
 # Budget_Tracker
 
 
-
 ## Table of Contents
 
 [Description](#Description)  
@@ -19,7 +18,7 @@
 
 ## Description
 
-I created this application to allow a user to track their withdrawals and deposits, even while offline. A user can create a new workout, then add exercises that they completed to the workout. It can also display the statistics of the workouts.
+I created this application to allow a user to track their withdrawals and deposits, even while offline. A user can add or subtract funds. A graph will display any new entries. When a user is offline, any transactions that they add will be stored and then sent to the database when back online.
 
 ## User_Story
 ```
@@ -28,14 +27,14 @@ AS AN avid traveller I WANT to be able to track my withdrawals and deposits with
 
 # Mock_Ups
 
-![fitness_tracker](public/assets/images/mockup.png)
+![budget_tracker](public/assets/images/mockup.png)
 
-![fitness_tracker](public/assets/images/mockup2.png)
+![budget_tracker](public/assets/images/mockup2.png)
 
 
 ## Live_Deployment
 
-[Fitness_Tracker](https://fkadir-fitness-tracker.herokuapp.com/)
+[Budget_Tracker](https://fkadir-fitness-tracker.herokuapp.com/)
 
 
 ## Installation_Instructions
