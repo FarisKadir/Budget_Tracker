@@ -16,5 +16,7 @@
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "/",
-    "description": "An application that allows you to track your withdrawals and deposits."
+    "description": "An application that allows you to track your withdrawals and deposits.",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff"
   }
